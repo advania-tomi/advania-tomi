@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @advania-tomi
-- 👀  I’m interested in 
+- 👀  I’m interested in "Coding", getting stuff done right and alll technical related stuff really.
 - 🌱  I’m currently learning WebRTC, public and private cloud related stuff
-- 💞️  I’m looking to collaborate on some OS project and keen to learn more on Development
+- 💞️  I’m looking to collaborate on some OS project and keen to learn more on Web, GUI and UC Development topic's
 - 📫  You can reach me via MS Teams tomi.hakkarainen@advania.com and that also work as an Email.
